@@ -8,7 +8,7 @@
 - 🖋 Writer at [Typora](https://Typora.io/)
 - ✍️ [Blogger](https://GKSEC.com)
 - 🎵 🙌Electronic Music / 👊HardStyle👊 / 🍄PsyTrance🍄 / 🌲Jugle🌲
-- 💼 Non-professional DJ / <s>Independent music producer</s>
+- 💼 Security Researcher / Editor / Non-professional DJ / <s>Independent music producer</s>
 - ♟ Chinese Chess / Chess 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=waterrr)]()
