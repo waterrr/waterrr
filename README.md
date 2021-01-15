@@ -10,9 +10,6 @@
 - 🎵 🙌Electronic Music / 👊HardStyle👊 / 🍄PsyTrance🍄 / 🌲Jugle🌲
 - 💼 Security Researcher / Editor / Non-professional DJ / <s>Independent music producer</s>
 
-  @dxkite 👈这是神仙
-  @iriszero48 👈这也是神仙
-  @waterrr 👈这是💩
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=waterrr)]()
 
