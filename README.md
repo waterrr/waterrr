@@ -5,10 +5,10 @@
 
 - 🍻 Junior at 🇨🇳 [CSUFT](https://swxy.csuft.edu.cn/), _BSc in Computer Science_
 - ⚡ PHP / Python / Shell.
-- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
-- ✍️ [Blogger](https://gksec.com)
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
-- 🥋 Boxing / Tai Chi
+- 🖋 Writer at [Typora](https://Typora.io/)
+- ✍️ [Blogger](https://GKSEC.com)
+- 🎵 🙌Electronic Music / 👊HardStyle👊 / 🍄PsyTrance🍄 / 🌲Jugle🌲
+- 💼 Non-professional DJ / <s>Independent music producer</s>
 - ♟ Chinese Chess / Chess 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=waterrr)]()
