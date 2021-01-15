@@ -11,7 +11,7 @@
 - 💼 Security Researcher / Editor / Non-professional DJ / <s>Independent music producer</s>
 
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=waterrr)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=waterrr)](https://github.com/waterrr)
 
 <!--
 **waterrr/waterrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
