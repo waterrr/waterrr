@@ -7,6 +7,7 @@
 - ⚡ PHP / Python / Shell.
 - ⚡ PHP / Python / Shell.
 - ⚡ PHP / Python / Shell.
+- ⚡ PHP / Python / Shell.
 - 🖋 Writer at [Typora](https://Typora.io/)
 - ✍️ [Blogger](https://GKSEC.com)
 - 🎵 Electronic Music / 👊HardStyle👊 / 🍄PsyTrance🍄 / 🌲Jugle🌲
