@@ -7,6 +7,7 @@
 
 - ⚡ PHP / Python / Shell.
 - ⚡ PHP / Python / Shell.
+- ⚡ PHP is the best language for web programming
 - 🌏 website: https://gksec.com
 - 📫 email: admin@gksec.com
 - 🖋 Writer at [Typora](https://Typora.io/)
