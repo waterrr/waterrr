@@ -6,8 +6,8 @@
 
 - ⚡ PHP / Python / Shell.
 - ⚡ PHP / Python / Shell.
-- ⚡ PHP / Python / Shell.
-- ⚡ PHP / Python / Shell.
+- 🌏 website: https://gksec.com
+- 📫 email: admin@gksec.com
 - 🖋 Writer at [Typora](https://Typora.io/)
 - 🎵 Electronic Music / 👊HardStyle👊 / 🍄PsyTrance🍄 / 🌲Jugle🌲
 - 💼 Security Researcher / Editor / Non-professional DJ / <s>Independent music producer</s>
