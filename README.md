@@ -5,7 +5,7 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://gksec.com/feed/rss/&style=flat-square)](https://gksec.com/)
 
 
-- 🌞 [逐日实验室](https://github.com/ZhuriLab)｜专注于红蓝对抗
+- 🌞 [逐日实验室](https://github.com/ZhuriLab)｜专注于云原生安全
 - ⚡ PHP / Python / Shell.
 - ⚡ PHP is the best language for web programming
 - 🌏 website: https://gksec.com
